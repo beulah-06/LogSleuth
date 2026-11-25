@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.vscode/
+
+# Generated reports
+reports/*
+
+# Sensitive files
+.env
+*.key
+*.pem
